@@ -6,24 +6,6 @@ This repository is a structured DevOps learning system built around practical la
 
 The current focus is AWS Cloud Practitioner foundations. Future tracks will extend the repository into broader DevOps tooling and delivery systems.
 
-## Learning Roadmap
-
-1. Build AWS foundational knowledge through lab-based exercises.
-2. Capture supporting concepts in concise technical notes.
-3. Organize evidence of progress through screenshots, diagrams, and practice material.
-4. Expand into infrastructure automation, containerization, and delivery pipelines.
-
-## Current Track (AWS Cloud Practitioner)
-
-The active learning path is centered on the AWS Certified Cloud Practitioner exam and foundational cloud operations concepts. The track is organized around focused labs covering identity and access management, storage, compute, monitoring, networking, and pricing.
-
-Primary areas covered:
-
-- Cloud concepts
-- Security and compliance
-- Cloud technology and services
-- Billing, pricing, and support
-
 ## Future Tracks
 
 Planned expansions for this repository include:
